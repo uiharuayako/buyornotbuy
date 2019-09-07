@@ -338,7 +338,7 @@ void howtobuy()
 		yd5 = "实体店";
 		break;
 	case 3:
-		s = 0.9;
+		s = 0.95;
 		yd5 = "网购";
 		break;
 	}
